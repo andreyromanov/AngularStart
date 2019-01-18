@@ -57,7 +57,7 @@ import { Component, OnInit } from '@angular/core';
 		font-style: italic;
 	}
 	`]
-}
+},
 })
 export class TestComponent implements OnInit {
 
